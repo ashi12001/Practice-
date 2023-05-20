@@ -1,0 +1,11 @@
+<!Doctype html tells that it is of type html
+
+* head tag contains title and body tags contains body and 
+with html elemtent is the root element of an html page  
+
+* Syntax of an element  <head>         </head>
+
+* paragraph tag doesn't neccesary means para only it means we can group items together
+
+* There are 6 heading tags ( At most only h1 tags should be there 
+* Next h is used if we need nested paragraph  in it
