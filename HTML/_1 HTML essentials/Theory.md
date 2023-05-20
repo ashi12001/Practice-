@@ -28,8 +28,15 @@ with html elemtent is the root element of an html page
 
 ## Image Elements
 
+* <img src = "image.jpg" alt ="Random image">
+* alt and src is an attribute 
+* alt is read by screen reader
+
 
 
 ## Attributes
 * href
 * src
+* alt
+
+<!--    comments in HTML             -->

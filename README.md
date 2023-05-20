@@ -1,5 +1,6 @@
 # Practice-
-My Practice Folder Structure:
+
+##My Practice Folder Structure:
 
 * **. Folder Organization:**
 
@@ -11,7 +12,7 @@ Each subfolder is named after a specific language or framework that I have learn
 This folder structure allows me to easily navigate and locate the practice materials for a particular language or framework.
 I can quickly find the relevant exercises and code examples without any confusion.
 
- **Comprehensive Practice:**
+ * **Comprehensive Practice:**
 
 By dedicating separate subfolders to each language or framework, I can ensure a comprehensive practice of the syntax and concepts.
 This approach helps me focus on specific languages or frameworks during my learning sessions.
