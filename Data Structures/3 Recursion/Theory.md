@@ -1,9 +1,9 @@
-<h1> Recursion </h1>
-<p> Recursion is used in graph , trees and Dp  ,  Things which we can do with loop can be performed Recursively TOo </p>
+ Recursion 
 
-<p> Recursion can be beneficial in some scenerios and same goes for loops too </p>
+Recursion is used in graph , trees and Dp  ,  Things which we can do with loop can be performed Recursively TOo 
 
-<p> function calling itself is recursion  <br>
+* Recursion can be beneficial in some scenerios and same goes for loops too 
+
+function calling itself is recursion  
     Example -  factorial  of n =  n * factorial of n-1
-               factorial
-</p>
+               factorial of n-1 =  n-1 * factorial of n-2
