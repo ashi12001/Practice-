@@ -15,6 +15,7 @@
 
 * Here a question is divided into sub problems
 
+
 ### Questions to make your concepts clear
 
 - [ ] When recursion is used ?
@@ -22,7 +23,7 @@
 - [ ] How  recursion is used ?
 
 
-** Recursion continues till its reach it's base case **  <br/>
+* Recursion continues till its reach it's base case
 
 * First we go inside recursive function till it's reach it's base case 
  
