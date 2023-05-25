@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Race</title>
+  </head>
+  <body>
+    <form action="ashi.com" method="get">
+      <label for="name"> First Name</label>
+      <input type="text" name="name" id="name"  required/> 
+      <label for="lname"> Last Name</label>
+      <input type="text" name="lastname" id="lname" /> <br />
+      <br />
+
+      <label for="selection">Select a race: <br /></label> <br />
+
+      <select name="selection " id="selection">
+        <option value="Select">Select</option>
+        <option value="halfm">Half marathon</option>
+        <option value="fullm">full Marathon</option>
+      </select>
+      <br />
+      <br />
+
+      <div>
+        <label for="email">Email :  </label>
+        <input type="text" name="email" id="email" required/>
+
+        <label for="password">Password :</label>
+        <input type="password" name="pass" id="password" minlength="8" maxlength="32"/> <br><br>
+
+        <label for="sel"> Select : </label> 
+        <select name="select" id="sel">
+            <option value="opt"></option>
+            <option value="opt1"> minor</option>
+            <option value="opt2"> 18 - 23</option>
+        </select><br>
+
+        <br><button>Register</button>
+
+
+
+      </div>
+    </form>
+  </body>
+</html>
