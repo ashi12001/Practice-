@@ -32,3 +32,12 @@
 ## How main function calls  another function
 
 * First main function calls a function then that fucntion call itself until it reaches the base condition
+ 
+ ''' java
+  public void number(int n) {
+        if(n>0){
+            number(n-1); 
+            System.out.println(n);
+        }
+        
+    }
