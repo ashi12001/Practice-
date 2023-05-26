@@ -23,14 +23,16 @@
 - [ ] How  recursion is used ?
 
 
-* Recursion continues till its reach it's base case
+**Recursion continues till its reach it's base case
 
 * First we go inside recursive function till it's reach it's base case 
+* and base casee gives us the value otherwise recursion will not stop
  
 **let's take a example of 5 factorial first we go inside 4 factorial then 3 then 2 then 1  in base condition we will get factorial of zero which is 1 Now it will give all the values back  while backtracking**  <br/> 
 
 ## How main function calls  another function
 
+* space complexity will be (n) too
 * First main function calls a function then that fucntion call itself until it reaches the base condition
  
  ''' java
