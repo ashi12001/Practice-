@@ -20,6 +20,7 @@ public class _4operations {
         // else{
         //     System.out.println(1);
         // }
+       
         int set = n|i;
         System.out.println(set);
         sc.close();
