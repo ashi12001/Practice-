@@ -1,0 +1,26 @@
+*{
+    background-color: azure;
+}
+button{
+    font-size: 25px;
+    background-color: antiquewhite;
+}
+#sign{
+    background-color: darkblue;
+    color: antiquewhite;
+    text-align: left;
+}
+.tag{
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+}
+
+footer a{
+    text-decoration: none;
+    color:brown;
+   
+    
+}
