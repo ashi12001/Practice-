@@ -19,8 +19,35 @@ a{
 }
 
 footer a{
-    text-decoration: none;
-    color:brown;
+    text-decoration:none;
+    color:black;
+    
    
     
 }
+input[type="password"] {
+   color:purple;
+}
+
+a[href*="g"]{
+   color: blue;
+   background-color:paleturquoise;
+}
+
+button:hover{
+    background-color: white;
+}
+
+/* nav a:hover{
+    text-decoration: underline;
+}  */
+
+a:hover{
+    text-decoration: underline;
+} 
+
+button:active{
+    color: white;
+    background-color: black;
+}
+
