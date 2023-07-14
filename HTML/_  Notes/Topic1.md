@@ -23,16 +23,16 @@ with html elemtent is the root element of an html page
 
 *  we can create Hyperlink by this  tag
 *  it will refer you  to another page 
-*  <a href =" "> link <a/>  TO use this link it  should be http otherwise it will try to find that file locally in your system
+*  <a href =""> link </a>  TO use this link it  should be http otherwise it will try to find that file locally in your system
 * We can make any text into a link with anchor elements
 
 ## Image Elements
 
-* <img src = "image.jpg" alt ="Random image">
+* img src = "image.jpg" alt ="Random image"
 * alt and src is an attribute 
 * alt is read by screen reader
 
-
+   
 
 ## Attributes
 * href

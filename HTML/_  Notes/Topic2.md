@@ -23,3 +23,42 @@
 * HR tag is for giving a line which looks nice basically a content DIvider
 * BR is used for line break
 * sub is used for subscript and sup is used for superscript
+
+
+## HTML entities
+
+* Start with an ampersand and end with a semicolon
+
+* Used to display reserved characters, that normally would be invalid
+
+* Also used in place of difficult to type characters
+
+* The browser interprets them and renders the correct character instead.
+
+eg &lt 
+
+
+
+
+## semantic markup 
+
+INSTEAD OF DIVS
+
+ * Use more specific elements like:
+
+* section
+
+* article
+
+* nav for navigational content
+
+* main for main content 
+
+* header
+
+* footer
+
+* aside
+
+* summary 
+
