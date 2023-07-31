@@ -1,0 +1,29 @@
+h1:active {
+    color: green;
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+    
+   
+  }
+p:active {
+    line-height:20px;
+    text-decoration: blue underline wavy;
+}
+
+/* *{
+    background-color: aquamarine;
+} */
+h1,h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: Red;
+}
+
+#namee{
+ color: pink;
+}
+
+li a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

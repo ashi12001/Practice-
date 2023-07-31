@@ -1,11 +1,12 @@
-p {
+p:hover {
     color: green;
     font-size: small;
-    font-style: italic;
+    font-family: Helvetica, sans-serif;
     
    
   }
 
-h2{
+h2:hover{
   color: darkblue;
+  text-decoration-line: underline;
 }
