@@ -1,0 +1,42 @@
+body{
+    font-family:'Times New Roman', Times, serif ;
+    margin: 500px;
+    background-color: #151b29;
+}
+
+button, #form{
+    background: none;
+    color: #ffa260;               /*        text color                    */
+    border: 2px solid;
+    padding: 1em 2em;
+    font-size: 1em;
+    transition: all 0.2s;
+
+    
+}
+button{
+    margin-left: 100px;
+}
+#form{
+    margin-bottom:30px;
+}
+#name{
+    background-color: #151b29;
+    border: 2px solid black ;
+    padding-left: 30px;
+}
+#name:active{
+    border-color: #f1ff5c;
+    color:whitesmoke;
+    border-radius:5% ;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+}
+
+button:hover, #form:hover{
+    border-color: #f1ff5c;
+    color:whitesmoke;
+    border-radius:5% ;
+    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    transform: translateY(-0.14em);
+    transform: scale(1.1);
+}
