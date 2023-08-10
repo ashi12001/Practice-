@@ -1,0 +1,25 @@
+h2{
+    width:300px;
+    background-color: #A076F9;
+    border: 2px solid #272829;
+    margin:20px auto;
+    padding: 30px;
+    
+    font-weight: lighter;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color:antiquewhite;
+   
+}
+h2:active{
+    background-color: #7A9D54;
+    border-radius: 80%;
+    transition: 1s;
+
+}
+section h2:hover{
+    /* transform: rotate(45deg); */
+    /* transform: scale(1.5); */
+   /* transform: translateY(-200px); */
+   /* transform: skewX(30deg); */
+}
