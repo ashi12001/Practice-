@@ -1,0 +1,17 @@
+section{
+    width:400px;
+    height: 400px;
+    background-color: aliceblue;
+    margin:50px;
+}
+#rgba{
+    width: 50%;
+    height:50%; 
+    background-color:rgba(25,150,25,.5);           /*  Alpha channel only affects background color*/
+}
+#opasity{
+    width: 50%;
+    height:50%; 
+    background-color: bisque;
+    opacity: 0.5;
+}

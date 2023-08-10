@@ -1,0 +1,14 @@
+section{
+    width:100px;
+    height:100px;
+    background-color: lightblue;
+    border: 4px dotted pink;
+    margin: 30px;
+    display: inline-block;
+}
+
+#s2{
+    position: static;
+    top: 100px;
+    right:100px;
+}
