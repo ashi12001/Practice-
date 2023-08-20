@@ -15,10 +15,10 @@ button{
     transition: all 0.2s;
 }
 button:hover{
-    border-color: #f1ff5c;
+    border-color: red;
     color:whitesmoke;
     border-radius:5% ;
-    box-shadow: 0 0.5em 0.5em -0.4em #f1ff5c;
+    box-shadow: 0 0.5em 0.5em -0.4em red;
     transform: translateY(-0.14em);
     transform: scale(3);
 }

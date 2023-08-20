@@ -1,0 +1,30 @@
+section {
+    width: 500px;
+    height: 500px;
+   
+ 
+    margin: 0 auto;
+    background-size: cover;
+    background-position: center;
+}
+section:hover{
+    border-radius: 10%;
+    transition: all 0.5s;
+    background-image: url("https://i.pinimg.com/originals/1e/cf/11/1ecf11c278c0230ddc460e808e268e00.jpg");
+}
+section:active{
+    background: none;
+  
+}
+
+h1 {
+    padding: 50px;
+    margin-left: 30px;
+    color: aliceblue;
+    font-size: 50px;
+    text-align:center;
+    text-shadow: black -6px 6px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    
+}
