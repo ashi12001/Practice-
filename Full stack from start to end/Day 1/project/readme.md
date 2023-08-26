@@ -1,0 +1,1 @@
+THis project is a first project in my full stack project after i start taking  it seriously

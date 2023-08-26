@@ -1,0 +1,39 @@
+
+
+* {
+    background-color: aliceblue;
+}
+
+/* universal selector */
+
+
+
+div{
+    color:darkcyan
+}
+
+
+.alert{
+    color: darkred;
+    height:200px;
+    width:200px;
+    background-color: aqua;     /* class selector */
+    padding: 20px;
+    margin: 50px;
+}
+
+#title , .alert{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 17px;
+    text-align: center;             /* Id and multiple selectors */
+    color: black;
+
+}
+img{
+    height: auto;
+    width: 300px;;
+    margin:50px;
+    border: 3px dotted blue;
+
+}
+

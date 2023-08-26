@@ -1,0 +1,10 @@
+h1{
+    color: gray;
+}
+a:hover{
+    text-decoration: none;
+}
+.info{
+    background-color: beige;
+
+}
