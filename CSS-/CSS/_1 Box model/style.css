@@ -2,7 +2,7 @@ section{
     width: 200px;
     height:200px;
     background-color: aqua;
-    margin:50px;
+    margin:70px;
     display: inline-block;
 }
 #rgba{
@@ -21,7 +21,7 @@ section{
 #opasity{
     width: 50px;
     height: 50px;
-    background-color: aqua;
+    background-color: red;
     border: 1px solid pink;
    
 }
