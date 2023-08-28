@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    margin-top: 30px;
+}
+
+
+
+.flex-container{
+    display: flex;
+    background-color: antiquewhite;
+    width: 80%;
+    height: 300px;
+    margin: 50px;
+    flex: auto;
+   
+    
+}
+.flex-container div{
+    height:100px;
+    width: 250px;
+    border: 5px solid azure;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Courier New', Courier, monospace;
+    flex-grow: 1;
+    flex: shrink 1;
+    flex-basis: 1;
+    
+
+}
+
+/* .flex-container .two{
+   flex-shrink:0% ;
+} */

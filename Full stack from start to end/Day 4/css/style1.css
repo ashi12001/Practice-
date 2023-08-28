@@ -1,0 +1,32 @@
+body{
+    background-color: #F3FDE8;
+}
+
+.flex-container{
+  
+    background-color: #003049;
+    width: 90%;
+    height: 500px;
+    margin: 0 auto;
+    border: 5px solid #003049;
+    
+    display: flex;
+
+    flex-direction: row;
+ 
+
+    align-items: center;
+
+    /* flex-wrap: wrap;   */
+}
+.flex-container div{
+    background: peachpuff;
+    border: 2px solid grey;
+    height: 200px;
+    width:200px;
+    margin:30px;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}

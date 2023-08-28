@@ -1,0 +1,23 @@
+body {
+    background-color: #f4eeee;
+    font-family:  monospace;
+  }
+
+.Div1{
+    width:200px;
+    height: 200px;
+    border: 2px solid pink;
+    padding: 20px;
+    margin: 100px;
+
+}
+#P1{
+    width: 150px;
+    height:150px;
+    border: 2px solid black;
+    margin: 20px;
+    background-color:#D0BFFF ;
+    padding: 10px;
+   
+    
+}

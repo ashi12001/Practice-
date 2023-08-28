@@ -1,0 +1,33 @@
+body{
+    background-color: #D8D9DA;
+}
+#div1{
+    width: 150px;
+    height: 150px;
+    background-color: #96B6C5;
+    border: 2px solid grey;
+    margin: 30px;
+    border-radius: 3%;
+    display: inline-block;
+}
+
+#div2{
+    width: 150px;
+    height: 150px;
+    background-color: #C8AE7D;
+    border: 2px solid grey;
+    margin: 30px;
+    border-radius: 3%;
+    display: inline-block;
+}
+
+
+#div3{
+    width: 150px;
+    height: 150px;
+    background-color: #DFCCFB;
+    border: 2px solid grey;
+    border-radius: 3%;
+    margin: 30px;
+    display: inline-block;
+}
