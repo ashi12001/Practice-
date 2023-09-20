@@ -1,0 +1,17 @@
+body{
+    
+    background-color: aliceblue;
+
+}
+div{
+    margin:40px;
+}
+div p{
+    width:300px;
+    border: 2px solid darkblue;
+    padding: 30px;
+}
+div p{
+    border-radius: 2%;
+    border-color:darkgray;
+}

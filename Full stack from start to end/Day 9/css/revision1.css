@@ -1,0 +1,31 @@
+body{
+    background-color: #93B1A6;
+    margin: 30px;
+}
+
+.read .unread{
+
+    color:aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+hr {
+    height: 1px;
+    background-color: black;
+    border: none;
+    
+}
+
+/* chanining selectors */
+
+.subsection.header{
+    color:blueviolet;
+    text-decoration: underline;
+}
+
+/* This can also be used to chain class and an id/ */
+
+.subsection#PREVIEW{
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

@@ -1,0 +1,41 @@
+*{
+    background-color: black;
+    color: white;
+    margin:15px;
+}
+h1{
+    font-size: medium;
+}
+
+
+div{
+    width:400px;
+    height: max-content;
+    border: 2px solid rebeccapurple;
+    text-align: center;
+    padding:30px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+#title{
+    color: green;
+    
+}
+
+
+.alert-text{
+    width:400px;
+    height: max-content;
+    color: red;
+    text-align: center;
+    border: 2px solid rebeccapurple;
+    padding:30px;
+}
+
+
+
+
+
+
+ 

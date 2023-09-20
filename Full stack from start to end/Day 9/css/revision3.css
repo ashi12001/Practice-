@@ -1,0 +1,32 @@
+#subsection{
+    color:blue;
+}
+
+.main .list{
+    color: pink;
+}
+
+
+
+#parent{
+    color :red;
+}
+/* Typography based properties are inherited */
+
+
+.child{
+    color:purple;
+    background-color: lightblue;
+    width: fit-content;
+    padding: 5x;
+}
+
+#parent div{
+    padding: 10px;
+    background-color: antiquewhite;
+}
+
+
+/* After every specificity whichever rule is last defined get used */
+
+

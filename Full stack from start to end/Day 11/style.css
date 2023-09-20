@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+    margin:10px;
+}
+
+p,ul{
+    border: 2px solid rebeccapurple;
+}
+
+span,li{
+    border:2px solid REd;
+}
+
+ul{
+    display:inline-flex;
+    list-style: none;
+    padding: 0;;
+}
+
+/* .inline{
+    display: inline;
+} */
+
+
+
+/* 
+span{
+    display: block;
+} */
+
+
+
+/* The key thing to remember for now is:
+ Changing the value of the display property can change whether the outer display type of a box is block or inline.
+ This changes the way it displays alongside other elements in the layout. */

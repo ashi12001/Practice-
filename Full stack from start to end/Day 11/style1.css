@@ -1,0 +1,57 @@
+.para1{
+    /* box-sizing: border-box; */
+
+    /* Box sizing is the actual dimension of box including border and padding */
+
+    width:350px;
+    height:150px;
+    margin:10px;
+    padding:25px;
+    border:2px solid black;
+
+    border-left-width: 10px;
+}
+span{
+
+    /* display: block; */
+    background-color: yellowgreen;
+    border: 2px solid red;
+    padding:3px;
+    
+}
+
+
+
+
+.container{
+    width:350px;
+    height:150px;
+    margin:10px;
+    padding:25px;
+    border:2px solid rebeccapurple;
+}
+
+.para2 ,  .para3{
+    width: 350px;
+    height:20px;
+    border: 1px solid grey;
+
+    border-left-width: 10px;
+    border-left-color: black;
+
+    padding: 3px;
+}
+
+
+.para2{
+    margin-bottom: 50px;
+}
+.para3{
+    margin-top: 10px;;
+}
+
+
+
+
+/* You can set border-top-width border-top-style , border-top-colour */
+/* And same for padding and margin too */

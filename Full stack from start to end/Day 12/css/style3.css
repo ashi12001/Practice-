@@ -1,0 +1,32 @@
+
+.flex-container{
+    display:flex;;
+    width: 90%;
+    height: 200px;
+
+    border: 2px solid rebeccapurple;
+
+    justify-content: space-evenly;
+}
+
+
+
+.flex-container div{
+    background-color: peachpuff;
+    border: 1px solid brown;
+    width: 200px;
+    height:100px;
+  
+    
+    
+  
+
+   
+    
+
+}
+
+.flex-container .c2{
+    flex: 1 30px;
+   background-color: aliceblue;
+}
