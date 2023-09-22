@@ -1,1 +1,3 @@
-number=  prompt("Enter number greater than 100");
+ if(number<=1){
+        return false;
+    }

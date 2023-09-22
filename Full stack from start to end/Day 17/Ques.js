@@ -32,9 +32,13 @@ function checkPrime(number){
         if(number==2){
             return true;
         }
-        if(number%j==0){
+        else if(number%j==0){
             return false;
         }
+      
+    }
+    if(number<=1){
+        return false;
     }
     return true;
 }
@@ -47,5 +51,7 @@ function outputPrime(n){
     }
     
 }
-
-console.log(outputPrime(50));
+console.log("\n\n")
+let num =-112;
+console.log(`if ${num} is prime or not -  ${checkPrime(num)}`)
+console.log(outputPrime(100));
